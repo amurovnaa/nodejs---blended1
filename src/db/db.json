@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Rustic Bamboo Cheese",
+    "price": "855.25",
+    "category": "Home"
+  },
+  {
+    "name": "Practical Rubber Gloves",
+    "price": "541.80",
+    "category": "Shoes"
+  },
+  {
+    "name": "Tasty Steel Chips",
+    "price": "726.89",
+    "category": "Kids"
+  },
+  {
+    "name": "Small Gold Chair",
+    "price": "806.49",
+    "category": "Games"
+  },
+  {
+    "name": "Unbranded Wooden Shoes",
+    "price": "241.29",
+    "category": "Beauty"
+  },
+  {
+    "name": "Soft Wooden Pizza",
+    "price": "251.89",
+    "category": "Home"
+  },
+  {
+    "name": "Luxurious Gold Fish",
+    "price": "797.39",
+    "category": "Automotive"
+  },
+  {
+    "name": "Generic Bronze Towels",
+    "price": "246.56",
+    "category": "Books"
+  },
+  {
+    "name": "Incredible Gold Shirt",
+    "price": "433.40",
+    "category": "Health"
+  },
+  {
+    "name": "Electronic Ceramic Pants",
+    "price": "767.79",
+    "category": "Automotive"
+  },
+  {
+    "name": "Electronic Bamboo Shoes",
+    "price": "309.99",
+    "category": "Movies"
+  },
+  {
+    "name": "Sleek Gold Soap",
+    "price": "833.00",
+    "category": "Kids"
+  }
+]
