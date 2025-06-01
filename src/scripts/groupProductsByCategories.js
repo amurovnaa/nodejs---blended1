@@ -11,11 +11,11 @@ export const groupProductsByCategories = async () => {
       }
       groupedByCategory[category].push(name);
     }
-    console.log(groupedByCategory);
+
     return groupedByCategory;
   } catch (error) {
     console.error('Failed to group products by categories:', error);
     return {};
   }
 };
-groupProductsByCategories();
+console.log(await groupProductsByCategories());

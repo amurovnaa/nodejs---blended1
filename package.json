@@ -11,6 +11,7 @@
     "group-products": "node src/scripts/groupProductsByCategories.js",
     "get-unique-categories": "node src/scripts/getUniqueCategories.js",
     "modify-products": "node src/scripts/modifyProducts.js",
+    "create-products-files": "node src/scripts/createProductsFiles.js",
     "dev": "nodemon src/index.js"
   },
   "repository": {
